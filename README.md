@@ -1,6 +1,6 @@
 ### Hey I'm Derek 👋
 
-- 🏫 I’m currently an undergraduate student at The University of British Columbia (UBC) studying Computer Science & Mathematics
+- 🏫 I’m an undergraduate student at The University of British Columbia (UBC) studying Computer Science & Mathematics
 - 📚 Actively learning about web development and machine learning
 - ❤️‍🔥 Love weight training, cooking new cuisines, listening to R&B, and learning new things!
 - 📫 Feel free to reach out: drkch@student.ubc.ca or any of my other socials linked on my profile
