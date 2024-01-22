@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey I'm Derek 👋
+
+- 🏫 I’m currently an undergraduate student at The University of British Columbia (UBC) studying Computer Science & Mathematics
+- 📚 Actively learning about web development and machine learning
+- ❤️‍🔥 Love weight training, cooking new cuisines, listening to R&B, and learning new things!
+- 📫 Feel free to reach out: drkch@student.ubc.ca or any of my socials linked on my profile
 
 <!--
 **drkchu/drkchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
