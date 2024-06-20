@@ -1,4 +1,4 @@
-### Hi I'm Derek 👋
+### I'm Derek 👋
 
 - 🏫 Undergraduate student at The University of British Columbia (UBC) pursuing a Combined Honours in Computer Science & Mathematics
 - 📚 Currently earning about web development and machine learning
