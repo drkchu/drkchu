@@ -1,7 +1,7 @@
 ### I'm Derek 👋
 
 - 🏫 Undergraduate student at The University of British Columbia (UBC) pursuing a Combined Honours in Computer Science & Mathematics
-- 📚 Currently learning about machine learning and quantitative finance
+- 📚 Currently learning about machine learning, quantitative finance, and web development
 - ❤️‍🔥 Passionate about powerlifting, spending time outdoors, connecting with people, and trying new food 
 
 Feel free to reach out: **drkch@student.ubc.ca** or any of my other socials linked on my profile, I'd love to work together on a cool project
